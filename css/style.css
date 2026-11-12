@@ -88,7 +88,7 @@ body {
   min-height: 660px;
   background:
     linear-gradient(90deg, rgba(229, 242, 247, 0.1), rgba(229, 242, 247, 0.12)),
-    url("../assets/Images/Header-Image.jpg") center 35% / cover no-repeat;
+    url(".../assets/Images/Header-Image.jpg") center 35% / cover no-repeat;
   display: flex;
   align-items: center;
 }
